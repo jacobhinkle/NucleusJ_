@@ -9,7 +9,7 @@ import imagescience.image.Dimensions;
 import imagescience.image.FloatImage;
 import imagescience.image.Image;
 import imagescience.utility.FMath;
-import imagescience.utility.ImageScience;
+import imagescience.ImageScience;
 import imagescience.utility.Messenger;
 import imagescience.utility.Progressor;
 import imagescience.utility.Timer;

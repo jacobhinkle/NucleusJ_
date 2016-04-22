@@ -6,7 +6,7 @@ import ij.WindowManager;
 import ij.process.LUT;
 import imagescience.image.Image;
 import imagescience.utility.I5DResource;
-import imagescience.utility.ImageScience;
+import imagescience.ImageScience;
 
 public final class FJ {
 	

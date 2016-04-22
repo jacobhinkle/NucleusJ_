@@ -26,6 +26,7 @@
 		<dependency>
 			<groupId>sc.fiji</groupId>
 			<artifactId>imagescience</artifactId>
+            <version>3.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>gov.nist.math</groupId>
@@ -34,7 +35,7 @@
 		<dependency>
 			<groupId>fr.inra.ijpb</groupId>
 			<artifactId>MorphoLibJ_</artifactId>
-			<version>1.0.6</version>
+			<version>1.1.1</version>
 		</dependency>
 	</dependencies>
 
